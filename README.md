@@ -10,7 +10,7 @@ The process of web scraping usually involves spiders which fetch the HTML docume
 
 The process of web scraping usually involves spiders which fetch the HTML documents from relevant websites, extracts the needed content based on business logic and finally store it in a specific format. This training is meant to be a primer on building scrapers using python. The traning materials will cover the following modules:
 
-<style>
+<style type="text/css">
 table {
     width:100%;
 }
